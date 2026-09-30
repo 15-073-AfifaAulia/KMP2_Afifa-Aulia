@@ -9,7 +9,7 @@ Aplikasi berbasis *console* (Kotlin murni) untuk menyimulasikan sistem aliran be
 4. **Coroutines (Async/Await)**: Menyimulasikan proses pengambilan detail berita yang berat secara asinkron di latar belakang menggunakan `Dispatchers.IO`.
 
 ## Cara Menjalankan Program
-1. Buka *project* ini menggunakan Android Studio atau IntelliJ IDEA.
+1. Buka *project* ini menggunakan Android Studio.
 2. Tunggu proses sinkronisasi Gradle selesai (pastikan menggunakan Gradle JDK versi 17).
 3. Buka file `Main.kt` yang berada di dalam direktori `app/src/main/kotlin/...`.
 4. Klik tombol **Run** (ikon segitiga hijau) di sebelah kiri blok `fun main()`.
